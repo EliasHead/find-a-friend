@@ -7,8 +7,14 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
 
+  :root {
+    font-size: 62.5%;
+  }
+
   body {
     color: #FFFFFF;
+    font-size: 1.6rem;
+    background-color: #f15156;
   }
 
   button {
